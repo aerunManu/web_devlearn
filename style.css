@@ -1,0 +1,33 @@
+.car>img{
+
+
+
+
+    height: 100px;
+    width: auto;
+    margin-right: 10px;   
+ float: left;
+}
+#bike>img{
+
+
+    height: 100px;
+    width: auto;
+    margin-right: 10px;   
+ float: left;
+}
+
+div{
+    display: inline-block;
+    vertical-align: top;
+    width: 49%;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
