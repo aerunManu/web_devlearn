@@ -1,57 +1,6 @@
-html{
-    background-color:#FFF0DC;
-    // #FFF8DE;
-}
-
-
-div{
-    background-color:#FFF8DE; 
-    //#FFF2C6;
-}
-
-.car>img{
-
-
-
-
-    height:7rem;
-    width: auto;
-    margin-right: 10px;   
- float: left;
-}
-#bike>img{
-
-
-    height: 7rem;
-    width: auto;
-    margin-right: 10px;   
- float: left;
-}
-.car{
-    margin-right: 5%;
-}
-div{
-    display: inline-block;
-    vertical-align: top;
-    width: 46%;
-    padding-left: 1%;
-    
-}
-
-h1{     
-    
-    font-family: "Josefin Sans", sans-serif;
- text-align: center;
-}
-
-h2{
+h1,.headisc {
     text-align: center;
-    background-color:#FFF2C6;
-    border-radius: 5px;
-    margin-right:2%;
 }
-p{
-    font-family: "Barlow Condensed", sans-serif;
-    font-weight: 500;
-    font-size: 1rem;
-}
+/*.headisc{
+    text-align: center;
+}*/
