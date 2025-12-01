@@ -1,0 +1,59 @@
+html{
+    background-color:#FFF0DC;
+    
+}
+
+
+div{
+    background-color:#FFF8DE; 
+   
+}
+
+.car>img{
+
+
+
+
+    height: 100px;
+    width: auto;
+    margin-right: 10px;   
+ float: left;
+}
+#bike>img{
+
+
+    height: 100px;
+    width: auto;
+    margin-right: 10px;   
+ float: left;
+}
+.car{
+    margin-right: 5%;
+}
+div{
+    display: inline-block;
+    vertical-align: top;
+    width: 46%;
+    padding-left: 1%;
+    
+}
+
+h1{     
+    
+    font-family: "Josefin Sans", sans-serif;
+ text-align: center;
+}
+
+h2{
+    text-align: center;
+    background-color:#FFF2C6;
+    border-radius: 5px;
+}
+p{
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+}
+footer{
+    margin-top: 10vh;
+}
